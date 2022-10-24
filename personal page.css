@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wgt@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Didot', serif;
+}
+
+
+
+h2{
+    color:hsla(228, 33%, 94%, 0.959);
+}
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background:hsl(229, 92%, 19%);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+    z-index: 999;
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+
+
+
+
